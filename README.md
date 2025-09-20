@@ -30,6 +30,12 @@ chmod +x generate_c0de_pattern.sh
 ./generate_c0de_pattern.sh
 ```
 
+## Requirements
+
+- Git
+- Bash shell
+- GitHub account
+
 ## Contributing
 
 Feel free to contribute to this project by submitting pull requests or opening issues.<!-- Updated: 2024-12-01 -->
