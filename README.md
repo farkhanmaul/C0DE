@@ -4,7 +4,7 @@ A creative repository showcasing commit patterns and coding artistry through aut
 
 ## Description
 
-This repository demonstrates creative commit patterns that form visual representations on GitHub's contribution graph.
+This repository demonstrates creative commit patterns that form visual representations on GitHub's contribution graph. Perfect for developers who want to create artistic patterns in their commit history.
 
 ## Features
 
