@@ -1,6 +1,6 @@
 # C0DE
 
-A creative repository showcasing commit patterns and coding artistry.
+A creative repository showcasing commit patterns and coding artistry through automated GitHub contribution graphs.
 
 ## Description
 
