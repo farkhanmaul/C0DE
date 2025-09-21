@@ -18,6 +18,13 @@ This repository demonstrates creative commit patterns that form visual represent
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Usage
+
+Run the pattern generator:
+```bash
+./generate_c0de_pattern.sh
+```
+
 ## Contributing
 
 Feel free to contribute to this project by submitting pull requests or opening issues.<!-- Updated: 2024-12-01 -->
