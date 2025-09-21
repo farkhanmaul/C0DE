@@ -23,6 +23,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Run the pattern generator:
 ```bash
+# Make script executable
+chmod +x generate_c0de_pattern.sh
+
+# Run the pattern generator
 ./generate_c0de_pattern.sh
 ```
 
