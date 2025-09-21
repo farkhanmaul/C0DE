@@ -11,6 +11,8 @@ This repository demonstrates creative commit patterns that form visual represent
 - Custom commit patterns
 - Creative GitHub contribution visualization
 - Open source project structure
+- Automated pattern generation
+- Visual ASCII art in commit history
 
 ## License
 
