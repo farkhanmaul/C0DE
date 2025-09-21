@@ -3,6 +3,7 @@
 # Script to create GitHub contribution pattern spelling "C0DE"
 # Clean pattern: Monday-Friday only, 1 week gap between letters
 # Time period: December 2024 to April 2025
+# Enhanced version with better error handling
 
 # Array of realistic commit messages
 messages=(
