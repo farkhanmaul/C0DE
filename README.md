@@ -13,6 +13,7 @@ This repository demonstrates creative commit patterns that form visual represent
 - Open source project structure
 - Automated pattern generation
 - Visual ASCII art in commit history
+- Cross-platform compatibility
 
 ## License
 
